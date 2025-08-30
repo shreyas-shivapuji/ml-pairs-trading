@@ -1,4 +1,4 @@
-# ML-Enhanced Pairs Trading Strategy
+# ML-Enhanced Pairs Trading System
 
 This repository contains an end-to-end quantitative trading system that implements a statistical arbitrage pairs trading strategy. The strategy is enhanced by a Kalman Filter for dynamic hedge ratios and a Random Forest machine learning model to filter trades based on their predicted profitability.
 
