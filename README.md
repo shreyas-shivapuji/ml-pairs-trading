@@ -90,6 +90,7 @@ The ML-Enhanced Kalman Filter strategy was backtested from 2020 to mid-2024. The
 | Average Loss        | -$1,987.43 |
 
 **Equity Curve and Performance Snapshot:**
+![image info](./ml_strategy_report.png)
 
 -----
 
