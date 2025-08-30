@@ -14,8 +14,6 @@ The core of this project is a mean-reversion pairs trading strategy built on the
 2.  **Dynamic Hedge Ratios**: Utilizes a Kalman Filter to continuously adjust the hedge ratio between the two assets in a pair, adapting to changing market conditions.
 3.  **Machine Learning for Trade Filtering**: A Random Forest classifier is trained on historical trade data to predict the profitability of new trading signals. Only signals with a high probability of success are executed.
 
-This multi-layered approach aims to create a robust trading strategy that can adapt to dynamic market environments and improve its performance by learning from past trades.
-
 -----
 
 ## 📂 Folder Structure
@@ -40,7 +38,7 @@ This multi-layered approach aims to create a robust trading strategy that can ad
 
 -----
 
-## 🔢 Workflow
+## Workflow
 
 The project is executed in a sequential pipeline, where the output of one script serves as the input for the next.
 
